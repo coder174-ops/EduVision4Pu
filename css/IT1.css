@@ -536,7 +536,8 @@ span {
     column-gap: 20px;
   }
   #heading3 {
-    margin: 6px 0px;
+    margin: 6px -20px;
+    font-size: 15px;
     padding: 0px 20px;
   }
   #box-8 {
