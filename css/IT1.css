@@ -122,21 +122,11 @@ body {
 #Sem1 h2{
     margin-top: 20px;
 }
-/* h1 {
-  margin: 0px;
-  padding: 0px;
-  background-color: #3a3f58;
-  color: white;
-  font-family: serif;
-  font-size: 35px;
-  text-shadow: 0 1px 0 #964b00, 0 2px 0 #d48433, 0 3px 0 #d48433,
-    0 4px 0 #d48433, 0 20px 30px rgba(0, 0, 0, 0.5);
-} */
 h2 {
   margin: 0px 0px;
   padding: 11px 0px;
   font-size: 25px;
-  background-color: #3a3f58;
+  background-color: #3d4261;
   font-family: Arial, Helvetica, sans-serif;
   text-shadow: 2px 3px 5px orange;
   color: white;
